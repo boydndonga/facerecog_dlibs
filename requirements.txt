@@ -1,0 +1,10 @@
+Click==7.0
+dlib==19.16.0
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+imutils==0.5.2
+numpy==1.15.4
+opencv-contrib-python-headless==3.4.5.20
+opencv-python==3.4.5.20
+Pillow==5.4.1
+pkg-resources==0.0.0
